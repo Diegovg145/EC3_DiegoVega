@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DAM_UC3_DiegoVega</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellidos</string>
+    <string name="correo">Tu direccion de correo electronico</string>
+    <string name="contraseña">Contraseña nueva</string>
+    <string name="sexo">Sexo</string>
+    <string name="correo2">Correo Electronico</string>
+    <string name="contraseña2">Contraseña</string>
+    <string name="entrar">Entrar</string>
+    <string name="registrate">Registrate</string>
+    <string name="hombre">Hombre</string>
+    <string name="mujer">Mujer</string>
+</resources>
